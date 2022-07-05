@@ -1,5 +1,5 @@
 #include "exitwindow.h"
-
+#include "../practic/practic.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
